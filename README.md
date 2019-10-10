@@ -1,2 +1,11 @@
-# teensy-sudo-gnome-stoler
-Teensy code + NodeJs server used to steal the password of a debian user and remotly send it to a http server
+# [PAYLOAD] - Teensy phisical attack - Sudo Stoler
+
+## Teensy code
+
+Use arduino w/ Teensy Lib 
+
+## Node.JS Express.JS Server
+
+cd replace_sudo_delville_server/
+npm install
+node index.js
